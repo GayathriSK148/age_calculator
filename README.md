@@ -1,2 +1,5 @@
-# age_calculator
-a detailed code to calculate age from date of birth and date on which it is calculated as input
+# Age Calculator
+A detailed code to calculate age which takes
+ *Date of birth 
+ *Date on which it is calculated 
+as input
